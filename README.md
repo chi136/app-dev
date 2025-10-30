@@ -10,9 +10,9 @@ My first respository
 ## **Main Characters**
 
 **Name**: *Rachel Green* <br>
-**Actor**: *Jennifer Aniston*
-**Fun Fact**: "Worked her way up from Central Park waitress to a Fashion Executive at **Ralph Lauren**."
-**Famous Line**: "It's like all my life everyone has always told me, 'You're a shoe!' Well, what if I don't want to be a shoe?"
+**Actor**: *Jennifer Aniston* <br>
+**Fun Fact**: "Worked her way up from Central Park waitress to a Fashion Executive at **Ralph Lauren**." <br>
+**Famous Line**: "It's like all my life everyone has always told me, 'You're a shoe!' Well, what if I don't want to be a shoe?" <br>
 
 **Name**: *Ross Geller*
 **Actor**: *David Schwimmer*
