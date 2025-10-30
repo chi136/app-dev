@@ -3,9 +3,9 @@ My first respository
 
 # My Favorite Series *FRIENDS*
 
-**Seasons**: 10
-**Episodes**: 236
-**Theme Song**: "I'll Be There For You" - The Rembrandts
+**Seasons**: 10 <br>
+**Episodes**: 236 <br>
+**Theme Song**: "I'll Be There For You" - The Rembrandts <br>
 
 ## **Main Characters**
 
