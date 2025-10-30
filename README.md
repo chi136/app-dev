@@ -14,27 +14,27 @@ My first respository
 **Fun Fact**: "Worked her way up from Central Park waitress to a Fashion Executive at **Ralph Lauren**." <br>
 **Famous Line**: "It's like all my life everyone has always told me, 'You're a shoe!' Well, what if I don't want to be a shoe?" <br>
 
-**Name**: *Ross Geller*
-**Actor**: *David Schwimmer*
-**Fun Fact**: "Was married ***three times*** throughout the series."
-**Famous Line**: "We were on break!"
+**Name**: *Ross Geller* <br>
+**Actor**: *David Schwimmer* <br>
+**Fun Fact**: "Was married ***three times*** throughout the series." <br>
+**Famous Line**: "We were on break!" <br>
 
-**Name**: *Monica Geller*
-**Actor**: *Courteney Cox*
-**Fun Fact**:  "Super **competitive** and loves cleaning her apartment is always spotless."
-**Famous Line**: "Seven! Seven! Seven!"
+**Name**: *Monica Geller* <br>
+**Actor**: *Courteney Cox* <br>
+**Fun Fact**:  "Super **competitive** and loves cleaning her apartment is always spotless." <br>
+**Famous Line**: "Seven! Seven! Seven!" <br>
 
-**Name**: *Chandler Bing*
-**Actor**: *Matthew Perry*
-**Fun Fact**:  "His job is a running joke, no one ever really knows what he does."
-**Famous Line**: "I'm not great at advice. Can I interest you in a sarcastic comment?"
+**Name**: *Chandler Bing* <br>
+**Actor**: *Matthew Perry* <br>
+**Fun Fact**:  "His job is a running joke, no one ever really knows what he does." <br>
+**Famous Line**: "I'm not great at advice. Can I interest you in a sarcastic comment?" <br>
 
-**Name**: *Joey Tribbiani*
-**Actor**: *Matt LeBlanc*
-**Fun Fact**:  "Loves **foods**, especially pizza and he doesn't share."
-**Famous Line**: "Joey doesn't share food!"
+**Name**: *Joey Tribbiani* <br>
+**Actor**: *Matt LeBlanc* <br>
+**Fun Fact**:  "Loves **foods**, especially pizza and he doesn't share." <br>
+**Famous Line**: "Joey doesn't share food!" <br>
 
-**Name**: *Phoebe Buffay*
-**Actor**: *Lisa Kudrow*
-**Fun Fact**:  "Grew up on the streets after her mother's death, tough but kindhearted."
-**Famous Line**: "Smelly cat, smelly cat, what are they feeding you?"
+**Name**: *Phoebe Buffay* <br>
+**Actor**: *Lisa Kudrow* <br>
+**Fun Fact**:  "Grew up on the streets after her mother's death, tough but kindhearted." <br>
+**Famous Line**: "Smelly cat, smelly cat, what are they feeding you?" <br>
