@@ -1,9 +1,9 @@
 # app-dev
 My first respository
 
-# H1 - My Favorite Series *FRIENDS*
+# My Favorite Series *FRIENDS*
 
-##H2 - **Characters**
+## **Characters**
 
 {
   "show": "Friends",
